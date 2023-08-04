@@ -12,4 +12,3 @@ Fluxo basico do back
 - Response
 
 comando dar o start no projeto nest
-npx ts-node-dev src/main.ts

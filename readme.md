@@ -9,6 +9,3 @@ Fluxo basico do back
     - Controller (Route the request to a particular function)
     - Service (Run some business logic)
     - Repository (Access a database)
-- Response
-
-comando dar o start no projeto nest
